@@ -2,14 +2,14 @@
 <addon id="repository.riopretomais" name="[COLORyellow][I]Rio PReTo MaiS[/I][/COLOR]" version="1.0" provider-name="MTs Rp">
 <extension point="xbmc.addon.repository" name="[COLORyellow]Rio PrReTo MaiS[/COLOR]">
 		<dir>
-			<info compressed="false">https://raw.githubusercontent.com/riopretoflix/riopretomais/master/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/riopretoflix/riopretomais/master/addons.xml.md5</checksum>
+			<info compressed="false">https://raw.githubusercontent.com/riopretoflix/riopretomais/master/addon.xml</info>
+			<checksum>https://raw.githubusercontent.com/riopretoflix/riopretomais/master/addon.xml.md5</checksum>
 			<datadir zip="false">https://raw.githubusercontent.com/riopretoflix/riopretomais/master/plugins/</datadir>
 		</dir>
 
 		<dir>
-		    <info compressed="false">https://raw.githubusercontent.com/riopretoflix/riopretomais/master/addons.xml</info>
-		    <checksum>https://raw.githubusercontent.com/riopretoflix/riopretomais/master/addons.xml.md5</checksum>
+		    <info compressed="false">https://raw.githubusercontent.com/riopretoflix/riopretomais/master/addon.xml</info>
+		    <checksum>https://raw.githubusercontent.com/riopretoflix/riopretomais/master/addon.xml.md5</checksum>
 		    <datadir zip="true">https://raw.githubusercontent.com/riopretoflix/riopretomais/master/zips/</datadir>
 		</dir>
 	</extension>
