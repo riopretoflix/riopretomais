@@ -1,7 +1,7 @@
 <item>
 <title>O Telefone do Sr. Harrigan </title>
-<link>magnet:?xt=urn:btih:46ae50e165363069258cdaa14ee5cf581d420831&amp;dn=VACATORRENT.COM..MKV.O%20Telefone%20do%20Sr.%20Harrigan%202022%201080p%20WEB-DL%20DUAL%205.1&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]Op 1 1080[/B]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=vOGXjnNRcmo$nome=[B]Trailer[/B]</link>
+<link>https://m3u8.vg/playlist.m3u8?server=RCFServer5&subfolder=ondemand&vid=c0hIMEROemZVbE1aRkRodTRYSkN6Z1A0dGZWQkpCOD0=[B]Op 1 1080[/B]</link>
+<link>https://www.youtube.com/watch?v=kLPiqa6GB64[B]Trailer[/B]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7JptBMGTikUK4CxJpG9cNTYAGjV.jpg|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</thumbnail>
 <fanart></fanart>
 <info>
